@@ -40,7 +40,7 @@ A clean and responsive weather application built using HTML, CSS, and JavaScript
 
 ---
 
-### 🌤️ Weather Result – Berlin  
+### 🌤️ Weather Result – Mumbai  
 ![Mumbai](Screenshot/preview1.png)
 
 ---
