@@ -54,9 +54,18 @@ index.html # Main UI layout
 
 ## 📸 Project Preview  
 
-| 🏠 Home Page | 🌤️ Weather Result | 📊 Forecast Preview | ⚠️ Error (Invalid City) |
-|--------------|-------------------|---------------------|-------------------------|
-| ![Home](./screenshot/home.png) | ![Weather Result](./screenshot/preview1.png) | ![Forecast](./screenshot/preview2.png) | ![Error](./screenshot/error-city.png) |
+### 🏠 Home Page
+![Home](screenshot/home.png)
+
+### 🌤️ Weather Result
+![Weather Result](screenshot/preview1.png)
+
+### 📊 Forecast Preview
+![Forecast](screenshot/preview2.png)
+
+### ⚠️ Error (Invalid City)
+![Error](screenshot/errorcity.png)
+
 
 
 ---
