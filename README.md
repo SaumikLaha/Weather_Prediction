@@ -56,7 +56,8 @@ index.html # Main UI layout
 
 | 🏠 Home Page | 🌤️ Weather Result | 📊 Forecast Preview | ⚠️ Error (Invalid City) |
 |--------------|-------------------|---------------------|-------------------------|
-| ![Home](./screenshot/home.png) | ![Weather Result](./screenshot/preview1.png) | ![Forecast](./screenshot/preview2.png) | ![Error](./screenshot/Error.city.png) |
+| ![Home](./screenshot/home.png) | ![Weather Result](./screenshot/preview1.png) | ![Forecast](./screenshot/preview2.png) | ![Error](./screenshot/error-city.png) |
+
 
 ---
 
@@ -79,4 +80,8 @@ WEATHER_API_KEY=your_api_key_here
 node server.js
 Server will start at: 👉 http://localhost:3000/
 
+---
+🧑‍💻 Author
+
+Made with ❤️ by Saumik Laha
 ---
